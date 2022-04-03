@@ -6,8 +6,6 @@ This Number-Generator is written in C# and contains the German Language. (Langua
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-YOU CAN DOWNLOAD THIS APPLICATION UNDER THE RELEASES ON GITHUB!!!
-
 DO NOT COPY or re-PUBLISH this Application without the owners consent!
 
 _Please report Bugs under the offical GitHub Site._
