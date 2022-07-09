@@ -2,7 +2,7 @@
 
 # Number-Generator
 
-This Number-Generator is written in C# and contains the German Language. (Language Update and Installer is going to come as soon as possible!)
+Do you want to generate some random Numbers? This Number-Generator helps you generate these Numbers! Just download it under: https://github.com/EmBra724/Number-Generator/releases / Tips etc. will be appreaciated!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
