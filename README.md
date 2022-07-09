@@ -2,7 +2,7 @@
 
 # Number-Generator
 
-Do you want to generate some random Numbers? This Number-Generator helps you generate these Numbers! Just download it under: https://github.com/EmBra724/Number-Generator/releases / Tips etc. will be appreaciated!
+Do you want to generate some random Numbers? This Number-Generator helps you to generate these Numbers! Just download it under: https://github.com/EmBra724/Number-Generator/releases / Tips etc. will be appreaciated!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
